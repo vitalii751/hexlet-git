@@ -1,1 +1,2 @@
-My new file
+My new file.
+And add some text... 
